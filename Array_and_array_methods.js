@@ -32,7 +32,8 @@ fruits.pop() // remove last element
 
 console.log(fruits);
 
-console.log(Array.isArray(fruits)) // check the variable type, it is array or not
+console.log(Array.isArray(fruits)); // check the variable type, it is array or not
 
 
-console.log(fruits.indexOf('oranges'))
+console.log(fruits.indexOf('oranges'));
+

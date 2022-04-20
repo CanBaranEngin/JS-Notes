@@ -25,7 +25,7 @@ console.log(s.substring(0,5));
 
 console.log(s.substring(0,5).toUpperCase()); 
 
-console.log(s.split('')); 
+console.log(s.split('')); // Create array with split 
 
 
 const l = 'technology, computers, it, code'
