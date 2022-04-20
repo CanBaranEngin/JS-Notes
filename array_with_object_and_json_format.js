@@ -25,6 +25,7 @@ console.log(todos);
 console.log(todos[1].text);
 
 
-const todoJSON = JSON.stringify(todos);
+const todoJSON = JSON.stringify(todos); // Convert to JSON format
 
 console.log(todoJSON);
+
